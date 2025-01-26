@@ -109,7 +109,7 @@ const App = () => {
 
     return (
         <div className="flex flex-col items-center justify-center min-h-screen p-4">
-            <h1 className="text-2xl font-bold mb-4">Cross-Chain Bridge 🌉</h1>
+            <h1 className="text-2xl font-bold mb-4">Bridge 🌉</h1>
             <div className="mb-4">
                 <button
                     onClick={connectEthereumWallet}
